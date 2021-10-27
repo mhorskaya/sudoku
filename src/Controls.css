@@ -1,0 +1,22 @@
+.button {
+  user-select: none;
+  font-size: 24px;
+  padding: 0px;
+  width: 72px;
+  height: 72px;
+  text-align: center;
+  cursor: pointer;
+  border: 1px solid #111111;
+  color: #111111;
+  background-color: #eeeeee;
+}
+
+.buttons {
+  padding-top: 10px;
+  padding-left: 56px;
+}
+
+.buttonsTable {
+  border-spacing: 0;
+  border-collapse: collapse;
+}

@@ -1,0 +1,9 @@
+.board {
+  border: 2px solid black;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+
+.bottomBorder {
+  border-bottom: 1px solid black;
+}
